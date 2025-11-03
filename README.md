@@ -34,7 +34,7 @@
 
 ## Как открыть
 
-1. Скачайте репозиторий или только файл `project1.pbix` по ссылке https://drive.google.com/drive/folders/10X2R-C-JrfqnGRGgvieUT0DYtUy4KcD6?usp=drive_link
+1. Скачайте файлы с диска или только файл `project1.pbix` по ссылке https://drive.google.com/drive/folders/10X2R-C-JrfqnGRGgvieUT0DYtUy4KcD6?usp=drive_link
 2. Откройте его в **Power BI Desktop**
 
 > Для просмотра без Power BI можно открыть файл [project1.pdf](./project1.pdf)
